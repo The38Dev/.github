@@ -1,6 +1,8 @@
 ## Hi there👋
 
-This is a dedicated space for The38Dev organization repositories. We are focusing on IaC and Cloud Modernization projects, helping clients migrate their workloads to Azure IaaS and PaaS services.
+This is a dedicated space for The38Dev organization repositories. 
+
+The38Dev Inc. is a private company with headquarters in Calgary, Canada. We focus on Infrastructure as Code (IaC), Microservices (Kubernetes) and Cloud Modernization projects, helping our clients migrate their workloads to Azure IaaS and PaaS services.
 
 ### Skills: 
 
